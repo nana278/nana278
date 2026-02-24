@@ -1,48 +1,48 @@
-# Backend Developer in Japan👋
-### Just 20 years old  
-### Feel free to contact me anytime!👍
+<div align="center">
 
-![nana278's GitHub stats](https://github-readme-stats.vercel.app/api?username=nana278&show_icons=true&theme=vue-dark)
+<img src="https://typograssy.deno.dev/api?text=%20nana278%20&l0=none&frame=none&speed=120&comment=" alt="nana278" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana278&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://typograssy.deno.dev/api?text=Backend%20Developer%20in%20Japan%20%F0%9F%91%8B&l0=none&frame=none&speed=80&comment=" alt="Backend Developer in Japan" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nana278&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My X Followers](https://badgen.net/twitter/follow/IXq21490)](https://x.com/IXq21490)
+</div>
 
 ---
 
 ## 🌐 Connect with me
-
 <p align="left">
-<a href="https://x.com/IXq21490" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
-</a>
+  <a href="https://x.com/IXq21490" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 ---
 
-# My Skill (Programming Languages, Frameworks and Tools)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gitlab,jquery,aws,vite" />
-
-※Another skill and tools  
-Codeigniter, VirtualBox, CakePHP, CircleCI and so on.
+## 🧰 My Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vue,php,laravel,mysql,sqlite,docker,aws,git,github,vscode" />
 
 ---
 
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" />
-
----
-
-<br><br><br>
-
+## 📊 Stats
 <div align="center">
-    <h1>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">
-    </h1>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nana278&theme=vue-dark&hide_border=true" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=nana278&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana278&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400" alt="langs" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=nana278&theme=discord&no-frame=true&margin-w=10&margin-h=10" alt="trophy" />
+
+</div>
+
+---
+
+<!-- パックマンは残す（ここはあなたの好きなやつのままでOK） -->
+<br><br><br>
+<div align="center">
+  <h1>
+    <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">
+    <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">
+    <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">
+  </h1>
 </div>
