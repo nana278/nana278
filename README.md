@@ -37,13 +37,6 @@ I'm a Japanese student!
 
 ---
 
-## 📌 Featured
-- 🔬 Malware classification (CNN)
-- 🧪 EXE → Image transformation experiments
-- 📊 Model evaluation & reproducibility
-
----
-
 ## 📑 Links
 
 <div align="center" style="display: flex; justify-content: center; gap: 90px;">
