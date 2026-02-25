@@ -46,7 +46,7 @@ I'm a Japanese student!
 
 ## 📑 Links
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; justify-content: center; gap: 70px;">
 
 <a href="https://x.com/IXq21490">
   <img src="https://github.com/ulxsth/ulxsth/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f" width="80" />
