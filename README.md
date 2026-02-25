@@ -53,7 +53,7 @@ Japan • Student • Building things
 </p>
 
 ---
-<!-- 
+
 ## 📑 Links
 
 <div align="center" style="display: flex; justify-content: center; gap: 90px;">
@@ -68,7 +68,7 @@ Japan • Student • Building things
 
 </div>
 
---- -->
+---
 
 <br><br><br>
 <div align="center">
@@ -79,3 +79,13 @@ Japan • Student • Building things
   </h1>
 </div>
 <br><br><br>
+
+---
+
+## ⚡ Now Working On
+
+- 🧠 Training CNN models
+- 🔍 Studying malware patterns
+- 📊 Improving model evaluation skills
+
+---
