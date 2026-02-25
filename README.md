@@ -10,14 +10,6 @@
 Japan • Student • Building things
 
 <br/>
-
-
-</div>
-
----
-
-## 📑 Links
-
 <div align="center" style="display: flex; justify-content: center; gap: 90px;">
 
 <a href="https://x.com/IXq21490">
@@ -27,6 +19,9 @@ Japan • Student • Building things
 <a href="https://qiita.com/nanasan8">
   <img src="https://user-images.githubusercontent.com/114195789/213505616-0ba4e475-0a15-4b5c-a733-6ccff19a342d.png" width="45" />
 </a>
+
+</div>
+
 
 </div>
 
