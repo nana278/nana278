@@ -17,9 +17,10 @@ I'm a Japanese student!
 ---
 
 ## 🖤 About me
-- Interested in **ML / Malware / Security**
-- Building CNN-based classification projects
-- Learning deeply, step by step
+-- 🇯🇵 I’m a high school student in Japan  
+- 💻 Currently studying programming  
+- 🤖 Mainly focused on Machine Learning  
+- 🔬 Exploring malware analysis & deep learning 
 
 ---
 
