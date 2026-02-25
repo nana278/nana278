@@ -6,19 +6,19 @@
 
 <h2>nana278 🖤</h2>
 
+<<p style="margin-top: 0; margin-bottom: 10px;">
 <b>Python / Machine Learning</b><br/>
 Japan • Student • Building things
+</p>
 
-<br/>
-
-<div align="center" style="display: flex; justify-content: center; gap: 90px;">
+<div style="display: flex; justify-content: center; gap: 40px; margin-top: 6px;">
 
 <a href="https://x.com/IXq21490">
-  <img src="https://github.com/ulxsth/ulxsth/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f" width="25" />
+  <img src="https://github.com/ulxsth/ulxsth/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f" width="30" />
 </a>
 
 <a href="https://qiita.com/nanasan8">
-  <img src="https://user-images.githubusercontent.com/114195789/213505616-0ba4e475-0a15-4b5c-a733-6ccff19a342d.png" width="25" />
+  <img src="https://user-images.githubusercontent.com/114195789/213505616-0ba4e475-0a15-4b5c-a733-6ccff19a342d.png" width="30" />
 </a>
 
 </div>
