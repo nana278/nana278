@@ -22,7 +22,7 @@ Japan • Student • Building things
 -  Mainly focused on Machine Learning  
 -  Exploring malware analysis & deep learning 
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -36,7 +36,7 @@ Japan • Student • Building things
   <sub>Focused on Python & Deep Learning.</sub>
 </p>
 
----
+
 
 ## 📑 Links
 
@@ -52,7 +52,7 @@ Japan • Student • Building things
 
 </div>
 
----
+
 
 <!-- パックマン（必須） -->
 <br><br><br>
