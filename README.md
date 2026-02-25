@@ -70,6 +70,14 @@ Japan • Student • Building things
 
 ---
 
+## ⚡ Now Working On
+
+- 🧠 Training CNN models
+- 🔍 Studying malware patterns
+- 📊 Improving model evaluation skills
+
+---
+
 <br><br><br>
 <div align="center">
   <h1>
@@ -79,13 +87,3 @@ Japan • Student • Building things
   </h1>
 </div>
 <br><br><br>
-
----
-
-## ⚡ Now Working On
-
-- 🧠 Training CNN models
-- 🔍 Studying malware patterns
-- 📊 Improving model evaluation skills
-
----
