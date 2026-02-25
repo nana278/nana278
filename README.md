@@ -7,7 +7,7 @@
 <h2>nana278 🖤</h2>
 
 <b>Python / Machine Learning</b><br/>
-Japan • Malware • Security
+Japan • I'm a Japanese student!
 
 <br/>
 
