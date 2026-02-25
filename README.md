@@ -46,13 +46,7 @@ I'm a Japanese student!
 
 ## 📑 Links
 
-<div align="center">
-
-<a href="https://x.com/IXq21490">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
-</a>
-
-</div>
+[![favicon-twitter](https://github.com/ulxsth/ulxsth/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f)](https://x.com/IXq21490) 
 
 ---
 
