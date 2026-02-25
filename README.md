@@ -9,6 +9,11 @@
 <b>Python / Machine Learning</b><br/>
 I'm a Japanese student!
 
+<br/>
+
+
+</div>
+
 ---
 
 ## 🖤 About me
