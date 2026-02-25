@@ -14,7 +14,7 @@ Japan • Student • Building things
 
 </div>
 
-<!-- ---
+---
 
 ## 📑 Links
 
@@ -28,7 +28,7 @@ Japan • Student • Building things
   <img src="https://user-images.githubusercontent.com/114195789/213505616-0ba4e475-0a15-4b5c-a733-6ccff19a342d.png" width="45" />
 </a>
 
-</div> -->
+</div>
 
 ---
 
@@ -53,7 +53,7 @@ Japan • Student • Building things
 </p>
 
 ---
-
+<!-- 
 ## 📑 Links
 
 <div align="center" style="display: flex; justify-content: center; gap: 90px;">
@@ -68,7 +68,7 @@ Japan • Student • Building things
 
 </div>
 
----
+--- -->
 
 ## ⚡ Now Working On
 
