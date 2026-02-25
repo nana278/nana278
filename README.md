@@ -7,7 +7,7 @@
 <h2>nana278 🖤</h2>
 
 <b>Python / Machine Learning</b><br/>
-I'm a Japanese student!
+Japan • Student • Building things
 
 <br/>
 
@@ -17,7 +17,7 @@ I'm a Japanese student!
 ---
 
 ## 🖤 About me
--- I’m a high school student in Japan  
+-  I’m a high school student in Japan  
 -  Currently studying programming  
 -  Mainly focused on Machine Learning  
 -  Exploring malware analysis & deep learning 
