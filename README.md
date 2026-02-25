@@ -11,9 +11,7 @@ Japan • I'm a Japanese student!
 
 <br/>
 
-<a href="https://x.com/IXq21490" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
+
 
 </div>
 
@@ -44,18 +42,6 @@ Japan • I'm a Japanese student!
 - 🔬 Malware classification (CNN)
 - 🧪 EXE → Image transformation experiments
 - 📊 Model evaluation & reproducibility
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nana278&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=86400" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana278&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=86400" height="160" />
-
-</div>
 
 ---
 
