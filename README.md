@@ -46,8 +46,19 @@ I'm a Japanese student!
 
 ## 📑 Links
 
-[![favicon-twitter](https://github.com/ulxsth/ulxsth/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f)](https://x.com/IXq21490) 
-[![favicon-qiita](https://user-images.githubusercontent.com/114195789/213505616-0ba4e475-0a15-4b5c-a733-6ccff19a342d.png)](https://qiita.com/nanasan8)
+<div align="center">
+
+<a href="https://x.com/IXq21490">
+  <img src="https://github.com/ulxsth/ulxsth/assets/114195789/448845ff-82ad-4755-82dc-2014d3ecec3f" width="70" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://qiita.com/nanasan8">
+  <img src="https://user-images.githubusercontent.com/114195789/213505616-0ba4e475-0a15-4b5c-a733-6ccff19a342d.png" width="70" />
+</a>
+
+</div>
 
 ---
 
