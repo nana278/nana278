@@ -14,7 +14,7 @@ Japan • Student • Building things
 
 </div>
 
----
+
 
 ## 🖤 About me
 -  I’m a high school student in Japan  
