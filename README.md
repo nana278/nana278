@@ -6,7 +6,7 @@
 
 <h2>nana278 🖤</h2>
 
-<<p style="margin-top: 0; margin-bottom: 10px;">
+<3<p style="margin-top: 0; margin-bottom: 10px;">
 <b>Python / Machine Learning</b><br/>
 Japan • Student • Building things
 </p>
