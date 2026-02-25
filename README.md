@@ -7,13 +7,7 @@
 <h2>nana278 🖤</h2>
 
 <b>Python / Machine Learning</b><br/>
-Japan • I'm a Japanese student!
-
-<br/>
-
-
-
-</div>
+I'm a Japanese student!
 
 ---
 
